@@ -1,0 +1,42 @@
+.visable{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.changeable{
+    background-color: aqua;
+}
+ 
+.carsblock{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 332px;
+}
+.notvisable{
+    
+    display: none;
+} 
+
+/* ......................  */
+
+#divForAll{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-around;
+    /* padding-left: 30px;
+    padding-right: 30px; */
+    margin-left: 30px; 
+    margin-right: 750px;
+    color: red;
+}
+
+.changeablelink{
+    color: black;
+}
+
+.carsblock PASSENGERVEHICLES{
+}
